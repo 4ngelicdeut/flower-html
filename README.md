@@ -2,7 +2,7 @@
 
 > A serene, bioluminescent floral animation built for the browser using pure HTML, CSS, and JavaScript.
 
-![Glowing Night Flowers Preview](image_2f461f.jpg)
+![Glowing Night Flowers Preview](Screenshot%202026-11-14%20140534.png)
 
 ## ✨ Features
 
@@ -11,4 +11,3 @@
 * **Smooth Organic Motion:** Animates swaying grass blades, blooming petals, and drifting light particles.
 
 ---
-
